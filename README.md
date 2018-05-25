@@ -11,7 +11,7 @@ This is a new Dark Theme made for netbeans IDE 8.x .
 
 ## Installation
 
-- Download the theme from here: [!](https://github.com/netilon/netilon-dark-theme/blob/master/netilon-dark-theme.zip)
+- Download the theme from here: [Netilon Dark Theme](https://github.com/netilon/netilon-dark-theme/blob/master/netilon-dark-theme.zip)
 - Open Netbeans IDE -> tools -> Options -> Fonts & Colors -> import
 - Select the file netilon-dark-theme.zip and thats it!.
 
@@ -20,7 +20,7 @@ This is a new Dark Theme made for netbeans IDE 8.x .
 ## License
 
 Copyright 2017 Netilon (Fabian Orue)
-https://netilon.com
+http://netilon.com
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
