@@ -2,7 +2,7 @@
 
 ## Synopsis
 
-This is a new Dark Theme made for netbeans IDE 8.x .
+This is a new Dark Theme made for netbeans IDE 8.x and the new netbeans 9.
 
 ## Your contribution is appreciated (thanks!)
 [![alt text](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif "thanks for contribute!")](https://paypal.me/netilon)
