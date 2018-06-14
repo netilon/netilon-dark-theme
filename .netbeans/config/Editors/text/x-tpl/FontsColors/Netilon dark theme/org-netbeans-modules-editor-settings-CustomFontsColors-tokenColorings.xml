@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fontscolors PUBLIC "-//NetBeans//DTD Editor Fonts and Colors settings 1.1//EN" "http://www.netbeans.org/dtds/EditorFontsColors-1_1.dtd">
+<fontscolors>
+    <fontcolor default="smarty" foreColor="ffcb6741" name="argument"/>
+    <fontcolor default="smarty" name="other"/>
+    <fontcolor default="smarty" foreColor="ff8f71ad" name="config_variable"/>
+    <fontcolor default="smarty" foreColor="ff00cc99" name="string"/>
+    <fontcolor default="smarty" name="smarty_delimiter">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor default="smarty" foreColor="ffcb6741" name="smarty_function">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor default="smarty" name="argument_value"/>
+    <fontcolor name="error" waveUnderlined="ffff6666"/>
+    <fontcolor default="smarty" foreColor="ff8f71ad" name="php_variable"/>
+    <fontcolor default="smarty" foreColor="ffff9999" name="smarty_operator"/>
+    <fontcolor default="smarty" name="variable_modifier"/>
+    <fontcolor default="smarty" foreColor="ff969696" name="comment"/>
+    <fontcolor default="smarty" name="pipe">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor default="default" name="smarty"/>
+    <fontcolor default="smarty" name="whitespace"/>
+</fontscolors>

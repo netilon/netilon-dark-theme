@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fontscolors PUBLIC "-//NetBeans//DTD Editor Fonts and Colors settings 1.1//EN" "http://www.netbeans.org/dtds/EditorFontsColors-1_1.dtd">
+<fontscolors>
+    <fontcolor default="link" name="wikilink"/>
+    <fontcolor name="strong">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor default="comment" name="code"/>
+    <fontcolor default="image" name="expimage"/>
+    <fontcolor default="keyword" name="link"/>
+    <fontcolor default="keyword" name="orderedlist"/>
+    <fontcolor default="image" name="ref_image"/>
+    <fontcolor default="comment" name="verbatim"/>
+    <fontcolor name="emph">
+        <font style="italic"/>
+    </fontcolor>
+    <fontcolor default="keyword" name="listitem"/>
+    <fontcolor default="keyword" name="quoted"/>
+    <fontcolor default="keyword" name="reference"/>
+    <fontcolor default="keyword" name="bulletlist"/>
+    <fontcolor default="link" name="anchorlink"/>
+    <fontcolor name="plain"/>
+    <fontcolor default="keyword" name="definition"/>
+    <fontcolor default="keyword" name="definition_term"/>
+    <fontcolor name="strikethrough" strikeThrough="black"/>
+    <fontcolor default="string" name="table"/>
+    <fontcolor default="link" name="maillink"/>
+    <fontcolor bgColor="ffd8d8d8" default="header" name="header4"/>
+    <fontcolor default="separator" name="horizontalrule"/>
+    <fontcolor default="link" name="explink"/>
+    <fontcolor bgColor="ffd0d0d0" default="header" name="header3"/>
+    <fontcolor default="keyword" name="image"/>
+    <fontcolor default="comment" name="blockquote"/>
+    <fontcolor bgColor="ffc8c8c8" default="header" name="header2"/>
+    <fontcolor default="header" name="header1"/>
+    <fontcolor default="link" name="autolink"/>
+    <fontcolor name="abbreviation"/>
+    <fontcolor default="keyword" name="inlinehtml"/>
+    <fontcolor bgColor="ffe8e8e8" default="header" name="header6"/>
+    <fontcolor bgColor="ffe0e0e0" default="header" name="header5"/>
+    <fontcolor default="link" name="ref_link"/>
+    <fontcolor default="keyword" name="definition_list"/>
+    <fontcolor bgColor="lightGray" default="keyword" foreColor="black" name="header">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor default="whitespace" name="whitespace"/>
+    <fontcolor default="string" name="htmlblock"/>
+</fontscolors>

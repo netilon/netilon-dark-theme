@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fontscolors PUBLIC "-//NetBeans//DTD Editor Fonts and Colors settings 1.1//EN" "http://www.netbeans.org/dtds/EditorFontsColors-1_1.dtd">
+<fontscolors>
+    <fontcolor foreColor="ffce7b00" name="attribute-value"/>
+    <fontcolor foreColor="ff90c175" name="gtag">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor name="attribute-name"/>
+    <fontcolor default="comment" name="comment"/>
+    <fontcolor foreColor="ff90c175" name="directive">
+        <font style="bold"/>
+    </fontcolor>
+</fontscolors>
